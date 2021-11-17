@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "title": "Learning-java2",
+      "Name": "Sumit10",
+      "id": 1
+    },
+    {
+      "id": "4",
+      "title": "JSQ",
+      "Name": "Sumit1"
+    },
+    {
+      "id": "7",
+      "title": "JSQ1",
+      "Name": "Sumit1"
+    },
+    {
+      "id": 25,
+      "title": "Noida",
+      "name": "Sumit"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "id": 25,
+    "title": "Noida",
+    "name": "Sumit"
+  }
+}
